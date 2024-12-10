@@ -1,0 +1,42 @@
+name: bbc
+description: "Aplicação para gestão personalizada para barbearia"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  path_provider: ^2.1.5
+  font_awesome_flutter: ^10.8.0
+  dropdown_button2: ^2.3.9
+  intl: ^0.19.0
+  pdf: ^3.11.1
+  share_plus: ^10.1.2
+  firebase_core: ^3.8.0
+  firebase_database: ^11.1.6
+  cloud_firestore: ^5.5.0
+  fluttertoast: ^8.2.8
+  connectivity_plus: ^6.1.0
+  shared_preferences: ^2.3.3
+  internet_connection_checker: ^1.0.0+1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
+  
+  # Referenciando as imagens dentro da pasta assets/imagens
+  assets:
+    - assets/imagens/

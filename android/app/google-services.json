@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65951969052",
+    "project_id": "bbc-barbearia",
+    "storage_bucket": "bbc-barbearia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65951969052:android:74c7072dbb7908f79c94d9",
+        "android_client_info": {
+          "package_name": "com.alme.bbcbarbearia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYzlWcxoKfVHKsQ3YDTmYw8cdfyIV72A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
